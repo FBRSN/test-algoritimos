@@ -1,1 +1,1 @@
-# Repositório referente aos algoritmos do módulo Lógica de Programação da Devaria
+# Repositório referente aos algoritmos do módulo Lógica de Programação da Devaria0
